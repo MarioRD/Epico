@@ -113,3 +113,4 @@ This privacy policy page was created at [privacypolicytemplate.net](https://priv
 <h2>Contact Us</h2>
 
 <p>If you have any questions about these Terms, please contact us.</p>
+ 
